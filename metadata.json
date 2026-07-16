@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Remix: Remix: Kit Destrava Sessão",
+  "description": "Página de vendas do Kit Destrava Sessão com mais de 160 recursos terapêuticos para adultos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
